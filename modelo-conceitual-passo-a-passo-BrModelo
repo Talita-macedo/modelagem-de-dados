@@ -22,10 +22,8 @@
 	    Colaborador  - trabalha em - função - projeto 1 | ternário
 	    Colaborador  - trabalha em - função - projeto 1 - projeto 2 | n-ário
 
----Definição da cardinalidade diante da relação das entidades 
 ---Entidades associativas - associar 2 entidades entre si quando ela possui relacionamentos com entidades diferentes
 
----Inserir os atributos (características) das entidades
 ---Elencar os tipos de atributos 
 	---Ex: Pessoa física ou jurídica | Atributos de especialização
 	---Ex: Telefone | Composto 
