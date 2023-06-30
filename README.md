@@ -65,6 +65,6 @@ A modelagem de dados não precisa ser complexa e cheia de elementos elaborados. 
    
 2. Definir qual será o SGBD que será utilizado para receber esse novo banco de dados
    
-3. Transcrever o desenho para uma ferramenta CASE (Oracle SQL DataModeler, MySQL Workbench entre outras). Exemplo no arquivo [script-ddl](https://github.com/Talita-macedo/modelagem-de-dados/blob/main/implanta%C3%A7%C3%A3o-modelagem).
+3. Transcrever o desenho para uma ferramenta CASE (Oracle SQL DataModeler, MySQL Workbench entre outras). Exemplo no arquivo [script-ddl](https://github.com/Talita-macedo/modelagem-de-dados/blob/main/implanta%C3%A7%C3%A3o-modelagem.sql).
 
 
